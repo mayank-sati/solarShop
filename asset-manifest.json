@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/solarShop/static/css/main.4a67520e.css",
+    "main.css": "/solarShop/static/css/main.9687a7d5.css",
     "main.js": "/solarShop/static/js/main.6cb18afe.js",
     "static/js/787.d5fa4d18.chunk.js": "/solarShop/static/js/787.d5fa4d18.chunk.js",
     "static/media/solarshophero.jpg": "/solarShop/static/media/solarshophero.30b7e0c781bb46bf3e03.jpg",
@@ -10,12 +10,12 @@
     "static/media/Solar.jpg": "/solarShop/static/media/Solar.dfbc788d52456c1c0d86.jpg",
     "static/media/SolarPanelWithSun.jpeg": "/solarShop/static/media/SolarPanelWithSun.a7e5643aac0777324cab.jpeg",
     "index.html": "/solarShop/index.html",
-    "main.4a67520e.css.map": "/solarShop/static/css/main.4a67520e.css.map",
+    "main.9687a7d5.css.map": "/solarShop/static/css/main.9687a7d5.css.map",
     "main.6cb18afe.js.map": "/solarShop/static/js/main.6cb18afe.js.map",
     "787.d5fa4d18.chunk.js.map": "/solarShop/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a67520e.css",
+    "static/css/main.9687a7d5.css",
     "static/js/main.6cb18afe.js"
   ]
 }
