@@ -134,12 +134,12 @@ code {
   .menu-items {
     flex-direction: column;
     position: absolute;
-    top: 0;
+    top: 25px;
     right: 0;
     left: 0;
-    height: 100vh;
+    /* height: 100vh; */
     transform: translateX(100vw);
-    background-color: #eab67670;
+    background-color: #eab676;
     margin-top: 56px;
     transition: transform 0.3s ease-in-out;
     font-weight: 700
