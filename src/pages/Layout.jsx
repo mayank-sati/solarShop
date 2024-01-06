@@ -21,9 +21,9 @@ const Layout = () => {
         <a href="/solar"><img src={Logo} alt="logo" width={100} height={100} /></a>
         <span className="logoName">solarshop.in</span>
         
-        {/* <div className={`menu-btn ${isOpen ? "open" : ""}`} onClick={toggle}>
+        <div className={`menu-btn ${isOpen ? "open" : ""}`} onClick={toggle}>
           <div className="menu-btn__lines"></div>
-        </div> */}
+        </div>
         <ul className={`menu-items ${isOpen ? "open" : ""}`}>
           <li>
             <Link to="/" className="menu-item z-20" onClick={handleItemClick}>
