@@ -27,7 +27,7 @@ code {
   justify-content: flex-start;
   padding: 1rem 2rem;
   z-index: 999;
-  background-color: #eab67670;
+  background-color: #eab676;
   backdrop-filter: blur(5px);
   max-height: 80px;
 }
