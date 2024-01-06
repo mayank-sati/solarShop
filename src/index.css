@@ -139,7 +139,7 @@ code {
     left: 0;
     height: 100vh;
     transform: translateX(100vw);
-    background-color: #0d47a1;
+    background-color: #eab67670;
     margin-top: 56px;
     transition: transform 0.3s ease-in-out;
     font-weight: 700
